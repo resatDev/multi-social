@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      This is our application MEMO!!!
+      This is our application REŞOOOO!!!
     </div>
   );
 }
